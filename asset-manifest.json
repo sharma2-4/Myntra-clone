@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Myntra-clone/static/css/main.5d128c72.css",
+    "main.js": "/Myntra-clone/static/js/main.52c6d27a.js",
+    "static/js/787.acbd0b2f.chunk.js": "/Myntra-clone/static/js/787.acbd0b2f.chunk.js",
+    "static/media/Myntra-Logo.png": "/Myntra-clone/static/media/Myntra-Logo.8a31f41289a70d265152.png",
+    "index.html": "/Myntra-clone/index.html",
+    "main.5d128c72.css.map": "/Myntra-clone/static/css/main.5d128c72.css.map",
+    "main.52c6d27a.js.map": "/Myntra-clone/static/js/main.52c6d27a.js.map",
+    "787.acbd0b2f.chunk.js.map": "/Myntra-clone/static/js/787.acbd0b2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d128c72.css",
+    "static/js/main.52c6d27a.js"
+  ]
+}
