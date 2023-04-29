@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/Myntra-clone/static/css/main.5d128c72.css",
-    "main.js": "/Myntra-clone/static/js/main.52c6d27a.js",
+    "main.css": "/Myntra-clone/static/css/main.d8dc53c6.css",
+    "main.js": "/Myntra-clone/static/js/main.d7598493.js",
     "static/js/787.acbd0b2f.chunk.js": "/Myntra-clone/static/js/787.acbd0b2f.chunk.js",
+    "static/media/banner4.webp": "/Myntra-clone/static/media/banner4.00782d45782d9451cf5f.webp",
+    "static/media/banner5.webp": "/Myntra-clone/static/media/banner5.94490d510c5cdf96cfad.webp",
+    "static/media/banner6.webp": "/Myntra-clone/static/media/banner6.434dfdd1c40afd8f1de9.webp",
+    "static/media/banner1.png": "/Myntra-clone/static/media/banner1.1c81e26ba65c875e9968.png",
+    "static/media/banner3.webp": "/Myntra-clone/static/media/banner3.6ea1a3a3d975d99ad433.webp",
     "static/media/Myntra-Logo.png": "/Myntra-clone/static/media/Myntra-Logo.8a31f41289a70d265152.png",
+    "static/media/banner2.webp": "/Myntra-clone/static/media/banner2.3740be3d3a7f97c6f90c.webp",
+    "static/media/banner1.webp": "/Myntra-clone/static/media/banner1.a9bb7ec6fd8c1b810f43.webp",
+    "static/media/revicons.eot": "/Myntra-clone/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Myntra-clone/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Myntra-clone/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Myntra-clone/index.html",
-    "main.5d128c72.css.map": "/Myntra-clone/static/css/main.5d128c72.css.map",
-    "main.52c6d27a.js.map": "/Myntra-clone/static/js/main.52c6d27a.js.map",
+    "main.d8dc53c6.css.map": "/Myntra-clone/static/css/main.d8dc53c6.css.map",
+    "main.d7598493.js.map": "/Myntra-clone/static/js/main.d7598493.js.map",
     "787.acbd0b2f.chunk.js.map": "/Myntra-clone/static/js/787.acbd0b2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d128c72.css",
-    "static/js/main.52c6d27a.js"
+    "static/css/main.d8dc53c6.css",
+    "static/js/main.d7598493.js"
   ]
 }
